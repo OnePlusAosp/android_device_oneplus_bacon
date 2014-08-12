@@ -1,1 +1,1 @@
-add_lunch_combo pace_bacon-userdebug
+add_lunch_combo aosp_bacon-userdebug
